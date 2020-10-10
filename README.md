@@ -1,4 +1,4 @@
-# Introduction to dyh super application public chain:
+# The Dyh super application public chain
    
 Dyh is the abbreviation of deflation yield hedging, and the super application public chain of global decentralized financial defi ecology.
 Dyh will lead the application era of global new economy and new infrastructure blockchain 4.0, and promote the global innovation economy
